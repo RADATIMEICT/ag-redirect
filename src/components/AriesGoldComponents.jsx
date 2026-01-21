@@ -66,7 +66,7 @@ export const YouTubeSection = ({ variant = "default" }) => {
 
 export const HeroSection = ({ onGaransiClick }) => {
     return (
-        <div className="pb-5 text-ag">
+        <div className="pb-5 text-ag h-full">
             <h1 className="resize" style={{ color: "white", fontWeight: 600 }}>
                 Mahakarya 'Watchmaker Legacy' ke Dunia Moderen
             </h1>
